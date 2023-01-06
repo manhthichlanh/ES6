@@ -1,0 +1,7 @@
+[
+        {"id": 1, "name": "Danh mục 1", "hinh": "hinh1.jpg", "hienthi": 0},
+        {"id": 2, "name": "Danh mục 2", "hinh": "hinh2.jpg", "hienthi": 0},
+        {"id": 3, "name": "Danh mục 3", "hinh": "hinh3.jpg", "hienthi": 1},
+        {"id": 4, "name": "Danh mục 4", "hinh": "hinh4.jpg", "hienthi": 1},
+        {"id": 5, "name": "Danh mục 5", "hinh": "hinh5.jpg", "hienthi": 0}
+    ]
